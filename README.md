@@ -1,2 +1,1 @@
-# developer-news
- Extension that brings together news sites for developers.
+<h1> Developer News </h1>
